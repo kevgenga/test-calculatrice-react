@@ -1,5 +1,6 @@
 #🧮 Calculatrice React - Interactive & Précise
-🔗 [Accéder au site](https://kevgenga.github.io/test-portfolio-mangaka/) 
+
+🔗 [Accéder au site](https://kevgenga.github.io/test-calculatrice-react/) 
 
 Une calculatrice moderne et fonctionnelle développée avec React.js, offrant des fonctionnalités avancées comme les opérations de base, les pourcentages, et les fonctions trigonométriques en radians.
 ##🚀 Technologies utilisées :
