@@ -13,9 +13,10 @@ Une calculatrice moderne et fonctionnelle développée avec React.js, offrant de
 
 ## 📋 Description
 
-Cette calculatrice offre une interface intuitive avec :
-✅ Les opérations mathématiques classiques (+, -, *, /)
-✅ Le calcul des pourcentages (ex: 10% de 1700 renvoie 170)
-✅ Les augmentations et réductions en pourcentage (ex: 200 +% 10 donne 220)
-✅ Les fonctions trigonométriques (sin, cos, tan) avec conversion en radians
-✅ Une interface fluide et esthétique, optimisée avec Styled-components
+Cette calculatrice offre une interface intuitive avec :  
+✅ Les opérations mathématiques classiques (+, -, *, /)  
+✅ Le calcul des pourcentages (ex: 10% de 1700 renvoie 170)  
+✅ Les augmentations et réductions en pourcentage (ex: 200 +% 10 donne 220)  
+✅ Les fonctions trigonométriques (sin, cos, tan) avec conversion en radians  
+✅ Une interface fluide et esthétique, optimisée avec Styled-components  
+
