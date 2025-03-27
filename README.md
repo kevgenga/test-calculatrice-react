@@ -1,9 +1,9 @@
-#🧮 Calculatrice React - Interactive & Précise
+🧮 Calculatrice React - Interactive & Précise
 
 🔗 [Accéder au site](https://kevgenga.github.io/test-calculatrice-react/) 
 
 Une calculatrice moderne et fonctionnelle développée avec React.js, offrant des fonctionnalités avancées comme les opérations de base, les pourcentages, et les fonctions trigonométriques en radians.
-##🚀 Technologies utilisées :
+🚀 Technologies utilisées :
 
     React.js : Bibliothèque JavaScript pour la création d'interfaces dynamiques.
 
@@ -11,7 +11,7 @@ Une calculatrice moderne et fonctionnelle développée avec React.js, offrant de
 
     Math.js : Bibliothèque permettant d'effectuer des calculs avancés en JavaScript.
 
-##📋 Description
+📋 Description
 
 Cette calculatrice offre une interface intuitive avec :
 ✅ Les opérations mathématiques classiques (+, -, *, /)
